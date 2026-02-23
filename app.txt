@@ -1,2 +1,3 @@
 Collaboration Demo Project
+*Descroption of new feature added #clarify
 Version 1.0
